@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+}
+#hed{
+    text-align: center;
+    color: red;
+    
+}
+.card{
+    background-color:rgb(54, 66, 136);
+    color:wheat;
+}
